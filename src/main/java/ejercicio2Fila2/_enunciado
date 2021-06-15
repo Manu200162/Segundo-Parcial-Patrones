@@ -4,3 +4,4 @@ administrativos( nombre, cargo) , los estudiantes pueden decidir si su mensaje e
 enviado a todos, solo a docentes o solo administrativos. los docentes solo envian
 mensajes a docentes y estudiantes, los administrativos envian mensajes a todos
 
+
