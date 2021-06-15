@@ -4,10 +4,10 @@ public class OrdenarPorNombre implements IModoOrdenamiento{
     @Override
     public void ordenar(Persona[] personasArr) {
         System.out.println("Se realizara un ordenamiento segun el nombre de las personas");
-        System.out.print("***********************************************");
+        System.out.println("***********************************************");
         Persona[]arr = ordenamiento(personasArr);
         printArray(arr);
-        System.out.print("***********************************************");
+        System.out.println("***********************************************");
     }
 
     public Persona[] ordenamiento(Persona[] arr){
@@ -27,7 +27,7 @@ public class OrdenarPorNombre implements IModoOrdenamiento{
     public void printArray(Persona arr[]){
         int n= arr.length;
         for(int i=0;i<n;i++){
-            System.out.println("Nombre: "+arr[i].getNombre()+"Ci: "+arr[i].getCi());
+            System.out.println("Nombre: "+arr[i].getNombre()+" Ci: "+arr[i].getCi());
         }
         System.out.println();
     }

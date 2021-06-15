@@ -4,10 +4,10 @@ public class OrdenarPorCi implements IModoOrdenamiento{
     @Override
     public void ordenar(Persona[] personasArr) {
         System.out.println("Se realizara un ordenamiento segun el ci de las personas");
-        System.out.print("***********************************************");
+        System.out.println("***********************************************");
         Persona[]arr = selectionSort(personasArr);
         printArray(arr);
-        System.out.print("***********************************************");
+        System.out.println("***********************************************");
     }
 
     public Persona[] selectionSort(Persona[] arr){
