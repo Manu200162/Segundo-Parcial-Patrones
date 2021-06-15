@@ -88,3 +88,29 @@ ejercicio1Fila2/GeneradorVersionArchivos.java
  ejercicio1Fila2.GeneradorVersionArchivos
 ejercicio1Fila2/Client.java
  ejercicio1Fila2.Client
+ejercicio3Fila2/Publicacion.java
+ ejercicio3Fila2.Publicacion
+ejercicio3Fila2/Client.java
+ ejercicio3Fila2.Client
+ejercicio3Fila2/Persona.java
+ ejercicio3Fila2.Persona
+ejercicio3Fila2/PagWeb.java
+ ejercicio3Fila2.PagWeb
+ejercicio3Fila2/SeguidorRegistrado.java
+ ejercicio3Fila2.SeguidorRegistrado
+ejercicio3Fila2/IPagweb.java
+ ejercicio3Fila2.IPagweb
+ejercicio3Fila2/IUsuario.java
+ ejercicio3Fila2.IUsuario
+ejercicio5Fila2/Compu.java
+ ejercicio5Fila2.Compu
+ejercicio5Fila2/Reiniciar.java
+ ejercicio5Fila2.Reiniciar
+ejercicio5Fila2/Apagado.java
+ ejercicio5Fila2.Apagado
+ejercicio5Fila2/IEstadoCompu.java
+ ejercicio5Fila2.IEstadoCompu
+ejercicio5Fila2/Client.java
+ ejercicio5Fila2.Client
+ejercicio5Fila2/Prendido.java
+ ejercicio5Fila2.Prendido

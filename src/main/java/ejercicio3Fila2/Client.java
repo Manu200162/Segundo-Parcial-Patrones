@@ -1,4 +1,4 @@
-package ejercicio2Fila2;
+package ejercicio3Fila2;
 
 public class Client {
 
@@ -24,7 +24,9 @@ public class Client {
         pagWeb.attach(seguidor5);
 
         pagWeb.agregarPublicacion(new Publicacion("12/01/2021","Videos","video de perritos"));
-
+        pagWeb.agregarPublicacion(new Publicacion("24/02/2021","Noticias",
+                "Personas de tercera edad se recuperan de covid 19"));
+        pagWeb.agregarPublicacion(new Publicacion("15/05/2021","Fotos","fotos de paisajes"));
     }
 
 }

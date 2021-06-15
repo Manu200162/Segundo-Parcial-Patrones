@@ -1,9 +1,9 @@
-package ejercicio2Fila2;
+package ejercicio3Fila2;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class PagWeb implements IPagweb{
+public class PagWeb implements IPagweb {
 
     private List<IUsuario> usuarioList = new ArrayList<>();
     private List<Publicacion> publicaciones= new ArrayList<>();

@@ -1,4 +1,4 @@
-package ejercicio2Fila2;
+package ejercicio3Fila2;
 
 
 public interface IPagweb {

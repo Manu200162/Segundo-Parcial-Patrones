@@ -1,4 +1,4 @@
-package ejercicio2Fila2;
+package ejercicio3Fila2;
 
 public class Publicacion {
     private String fechaPublicacion;
